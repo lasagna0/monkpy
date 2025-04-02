@@ -1,6 +1,6 @@
-# SMRetriever
+# Monkpy
 
-**Survey Monkey Retriever** - A Python library for interacting with SurveyMonkey API through R integration.
+**Survey Monkey Retriever** (Monkpy) - A Python library for interacting with SurveyMonkey API through R integration.
 
 This library was developed as part of the data analysis framework used in **Fundación Santo Domingo** to streamline the process of retrieving and processing SurveyMonkey survey data.
 
