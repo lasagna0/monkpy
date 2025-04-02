@@ -64,4 +64,4 @@ MIT
 
 ## Author
 
-Data Analytics Team @ Fundación Santo Domingo 
+David A Sanchez Polo dsanchez@fundacionsantodomingo.org @ Fundación Santo Domingo 
