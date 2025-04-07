@@ -111,7 +111,7 @@ class SurveyMonkeyClient:
         r_code = f'''
         df <- {survey_id} %>%
             fetch_survey_obj %>%
-            parse_survey
+            parse_survey(fix_duplicates = 'none')
         
         df <- df %>% filter(response_status=="completed")
         df
