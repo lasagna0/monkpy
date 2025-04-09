@@ -23,7 +23,7 @@ class SurveyMonkeyClient:
         # if r_home is None:
         #     r_home = "C:/Program Files/R/R-4.3.3"
         
-        os.environ["R_HOME"] = r_home
+        #os.environ["R_HOME"] = r_home
         
         # Check if R_HOME is properly set
         if not os.path.exists(r_home):
