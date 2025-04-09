@@ -19,9 +19,9 @@ class SurveyMonkeyClient:
             oauth_token (str, optional): OAuth token for SurveyMonkey API
             r_home (str, optional): Path to R installation directory
         """
-        # Set R_HOME environment variable
-        if r_home is None:
-            r_home = "C:/Program Files/R/R-4.3.3"
+        # # Set R_HOME environment variable
+        # if r_home is None:
+        #     r_home = "C:/Program Files/R/R-4.3.3"
         
         os.environ["R_HOME"] = r_home
         
